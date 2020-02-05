@@ -1,4 +1,4 @@
-# spell (c) 202 Nigel Garnett
+# spell (c) 2020 Nigel Garnett
 
 Code by Nigel Garnett, under MIT license, see MIT.txt
 
